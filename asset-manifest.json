@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/flixxot1/static/css/main.b52d3bda.chunk.css",
-    "main.js": "/flixxot1/static/js/main.052314fc.chunk.js",
-    "main.js.map": "/flixxot1/static/js/main.052314fc.chunk.js.map",
+    "main.css": "/flixxot1/static/css/main.817407e8.chunk.css",
+    "main.js": "/flixxot1/static/js/main.5f58b398.chunk.js",
+    "main.js.map": "/flixxot1/static/js/main.5f58b398.chunk.js.map",
     "runtime-main.js": "/flixxot1/static/js/runtime-main.24b1a7cc.js",
     "runtime-main.js.map": "/flixxot1/static/js/runtime-main.24b1a7cc.js.map",
     "static/css/2.394cb945.chunk.css": "/flixxot1/static/css/2.394cb945.chunk.css",
-    "static/js/2.c40a6171.chunk.js": "/flixxot1/static/js/2.c40a6171.chunk.js",
-    "static/js/2.c40a6171.chunk.js.map": "/flixxot1/static/js/2.c40a6171.chunk.js.map",
+    "static/js/2.dec4d595.chunk.js": "/flixxot1/static/js/2.dec4d595.chunk.js",
+    "static/js/2.dec4d595.chunk.js.map": "/flixxot1/static/js/2.dec4d595.chunk.js.map",
     "index.html": "/flixxot1/index.html",
-    "precache-manifest.4efbb1b6d428ff91cbbabbabc4806ea4.js": "/flixxot1/precache-manifest.4efbb1b6d428ff91cbbabbabc4806ea4.js",
+    "precache-manifest.88d111778495583ac88e8238c5bb068b.js": "/flixxot1/precache-manifest.88d111778495583ac88e8238c5bb068b.js",
     "service-worker.js": "/flixxot1/service-worker.js",
     "static/css/2.394cb945.chunk.css.map": "/flixxot1/static/css/2.394cb945.chunk.css.map",
-    "static/css/main.b52d3bda.chunk.css.map": "/flixxot1/static/css/main.b52d3bda.chunk.css.map",
-    "static/js/2.c40a6171.chunk.js.LICENSE.txt": "/flixxot1/static/js/2.c40a6171.chunk.js.LICENSE.txt",
+    "static/css/main.817407e8.chunk.css.map": "/flixxot1/static/css/main.817407e8.chunk.css.map",
+    "static/js/2.dec4d595.chunk.js.LICENSE.txt": "/flixxot1/static/js/2.dec4d595.chunk.js.LICENSE.txt",
     "static/media/404.png": "/flixxot1/static/media/404.132c80cc.png",
     "static/media/LOGO-FLIXXO.svg": "/flixxot1/static/media/LOGO-FLIXXO.4b923564.svg",
     "static/media/ProfilePic.svg": "/flixxot1/static/media/ProfilePic.fd00211c.svg",
@@ -25,6 +25,13 @@
     "static/media/close-modal.ec2e12a6.svg": "/flixxot1/static/media/close-modal.ec2e12a6.svg",
     "static/media/close.8ca7883b.svg": "/flixxot1/static/media/close.8ca7883b.svg",
     "static/media/close2.ec2e12a6.svg": "/flixxot1/static/media/close2.ec2e12a6.svg",
+    "static/media/contro-subtitle.6987a5f1.svg": "/flixxot1/static/media/contro-subtitle.6987a5f1.svg",
+    "static/media/controls-exitfullscreen.71d2ab6b.svg": "/flixxot1/static/media/controls-exitfullscreen.71d2ab6b.svg",
+    "static/media/controls-fullscreen.55b79d5e.svg": "/flixxot1/static/media/controls-fullscreen.55b79d5e.svg",
+    "static/media/controls-mute.e0c09975.svg": "/flixxot1/static/media/controls-mute.e0c09975.svg",
+    "static/media/controls-pause.bc712347.svg": "/flixxot1/static/media/controls-pause.bc712347.svg",
+    "static/media/controls-play.22f9e641.svg": "/flixxot1/static/media/controls-play.22f9e641.svg",
+    "static/media/controls-volume.8d387a89.svg": "/flixxot1/static/media/controls-volume.8d387a89.svg",
     "static/media/SelectCountry.module.scss": "/flixxot1/static/media/select-options.cf065e55.svg",
     "static/media/ModalAlert.module.scss": "/flixxot1/static/media/recovermask.2fb51a59.png",
     "static/media/fb-footer.5c293af2.svg": "/flixxot1/static/media/fb-footer.5c293af2.svg",
@@ -57,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.24b1a7cc.js",
     "static/css/2.394cb945.chunk.css",
-    "static/js/2.c40a6171.chunk.js",
-    "static/css/main.b52d3bda.chunk.css",
-    "static/js/main.052314fc.chunk.js"
+    "static/js/2.dec4d595.chunk.js",
+    "static/css/main.817407e8.chunk.css",
+    "static/js/main.5f58b398.chunk.js"
   ]
 }
